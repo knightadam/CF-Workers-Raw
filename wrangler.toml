@@ -1,4 +1,4 @@
-name = "cf-workers-raw"
+name = "github-private-repo-cloudflare"
 main = "_worker.js"
 compatibility_date = "2025-08-18"
 keep_vars = true
